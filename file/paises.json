@@ -1,0 +1,51 @@
+{
+    "localidad 1": {
+
+     "url":"https://astelus.com/wp-content/viajes/bandera-de-angola-1152x759.png.webp",
+        "Continente": "África",
+     "Pais": "Angola",
+     "Capital": "Luanda"
+    },
+    "localidad 2": {
+     "url": "https://banderas.top/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/07/Bandera-de-Estados-Unidos.png.webp",
+        "Continente": "América del Norte",
+     "Pais": "Estados Unidos",
+     "Capital": "Washington DC"
+    },
+    "localidad 3": {
+     "url": "",
+        "Continente": "América Central",
+     "Pais": "México",
+     "Capital": "Ciudad de México"
+    },
+    "localidad 4": {
+     "url": "",
+        "Continente": "América del Sur",
+     "Pais": "Brasil",
+     "Capital": "Brasilia"
+    },
+    "localidad 5": {
+     "url": "",
+        "Continente": "Europa",
+    "Pais": "España",
+     "Capital": "Madrid"
+    },
+    "localidad 6": {
+     "url": "",
+        "Continente": "Europa",
+     "Pais": "Alemania",
+     "Capital": "Berlín"
+    },
+    "localidad 7": {
+     "url": "",
+        "Continente": "Oceanía",
+     "Pais": "Australia",
+     "Capital": "Camberra"
+    },
+     "localidad 8": {
+    "url": "",
+        "Continente": "Asia",
+     "Pais": "Japón",
+     "Capital": "Tokio"
+    }
+}
